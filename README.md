@@ -11,7 +11,7 @@ I'm a passionate web developer with a knack for creating beautiful and functiona
 - 👯 I’m looking to collaborate on  open-source projects related to web development, especially those using React or Node.js.
 - 🤔 I’m looking for help with deploying applications on AWS; I want to learn more about cloud services and best practices.  
 - 💬 Ask me about front-end development, React, and CSS animations; I love creating interactive user interfaces!
-- 📫 How to reach me: rushitungana7@gmail.com;
+- 📫 How to reach me: rushitungana7@gmail.com ,https://www.linkedin.com/in/rushi-tungana-076908317;
 - ⚡ Fun fact:I’m a huge fan of sci-fi movies and books! They inspire my creativity and often influence my projects
 
 ## 🛠️ Technologies & Tools
@@ -42,8 +42,8 @@ Here are some of the technologies and tools I work with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/rushi-tungana-076908317)
+
 - [Personal Website](https://yourwebsite.com)
 
 ## 🎨 My Projects
