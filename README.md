@@ -1,7 +1,5 @@
 # 👋 Hello, I'm RUSHI TUNGANA !
 
-![3D Developer](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
-
 ## 🌟 About Me
 
 I'm a passionate web developer with a knack for creating beautiful and functional web applications. I love turning ideas into reality and continuously learning new technologies to enhance my skills.
@@ -48,11 +46,10 @@ Here are some of the technologies and tools I work with:
 
 ## 🎨 My Projects
 
-Here are some of my favorite projects:
+Here are some of my favorite  MINI projects:
 
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
+- [Project 1](RushiTungana/Calculator)  
+- [Project 2](RushiTungana/TO-DO-List) 
 
 ---
 
