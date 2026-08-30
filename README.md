@@ -1,56 +1,105 @@
-# 👋 Hello, I'm RUSHI TUNGANA !
+👋 Hello, I'm RUSHI TUNGANA!
 
-## 🌟 About Me
+🌟 About Me
 
-I'm a passionate web developer with a knack for creating beautiful and functional web applications. I love turning ideas into reality and continuously learning new technologies to enhance my skills.
+I'm a B.Tech Information Technology graduate and an aspiring Full Stack Java Developer passionate about building practical, scalable, and user-friendly applications.
 
-- 🔭 I’m currently working on a personal portfolio website to showcase my projects and skills.
-- 🌱 I’m currently learning ypeScript to enhance my JavaScript skills and improve my code quality.
-- 👯 I’m looking to collaborate on  open-source projects related to web development, especially those using React or Node.js.
-- 🤔 I’m looking for help with deploying applications on AWS; I want to learn more about cloud services and best practices.  
-- 💬 Ask me about front-end development, React, and CSS animations; I love creating interactive user interfaces!
-- 📫 How to reach me: rushitungana7@gmail.com ;
-- ⚡ Fun fact:I’m a huge fan of sci-fi movies and books! They inspire my creativity and often influence my projects
+Currently, I'm learning, improving, and working on Full Stack Java technologies, strengthening my knowledge from Core Java and Object-Oriented Programming to databases, backend development, frontend technologies, and full-stack application development.
 
-## 🛠️ Technologies & Tools
+- 🔭 Currently working on: Full Stack Java development and practical projects
+- 🌱 Currently learning: Java, JDBC, SQL, MySQL, HTML, CSS, JavaScript, and backend development
+- 💻 Focus: Building strong fundamentals in Core Java, OOP, problem-solving, and full-stack development
+- 🚀 Improving: Data Structures, database concepts, Git/GitHub, and software development practices
+- 👯 Looking to collaborate on: Java, Full Stack, and open-source projects
+- 💬 Ask me about: Java, OOP, SQL, JDBC, MySQL, Git/GitHub, and web development
+- 📫 Email: rushitungana7@gmail.com
+- ⚡ Fun fact: I enjoy sci-fi movies and books, which often inspire my curiosity and creativity!
 
-Here are some of the technologies and tools I work with:
+🛠️ Technologies & Tools
 
-- **Languages:**
--   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+💻 Programming Languages
 
-- **Frameworks:**
-  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+"C++" (https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+"SQL" (https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- **Tools:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+🌐 Web Technologies
 
-## 📈 GitHub Stats
+"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+☕ Java & Backend
 
-## 🌐 Connect with Me
+"JDBC" (https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- [LinkedIn](https://www.linkedin.com/in/rushi-tungana-076908317)
+🔧 Tools
 
-- [Personal Website](https://yourwebsite.com)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 🎨 My Projects
+🚀 Currently Learning
 
-Here are some of my favorite  MINI projects:
+I'm currently focusing on becoming a Full Stack Java Developer and building my skills step by step:
 
-- [Project 1](RushiTungana/Calculator)  
-- [Project 2](RushiTungana/TO-DO-List) 
+- ☕ Core Java & Object-Oriented Programming
+- 🗄️ SQL & MySQL
+- 🔌 JDBC & Database Connectivity
+- 🌐 HTML, CSS & JavaScript
+- ⚙️ Backend Development
+- 🔗 Git & GitHub
+- 🧩 Data Structures & Problem Solving
+- 🚀 Full Stack Java Application Development
+
+🎯 My Current Goal
+
+«Learn → Build → Practice → Improve → Contribute»
+
+My goal is to become a strong Full Stack Java Developer by continuously improving my programming fundamentals, developing real-world projects, and gaining practical software development experience.
+
+🎨 My Projects
+
+Here are some of my projects and learning work:
+
+🏦 Banking Management System
+
+Java | JDBC | MySQL
+
+A Core Java-based banking application implementing account creation, deposits, withdrawals, balance inquiries, database persistence, input validation, and exception handling.
+
+🎙️ Speech Emotion Analysis System
+
+Python | Deep Learning | Librosa
+
+A deep learning-based system that classifies human emotions from audio signals using Mel-Spectrogram feature extraction and transfer learning.
+
+🌦️ Real-Time Weather Forecasting Application
+
+HTML5 | CSS3 | JavaScript | API
+
+A responsive web application that provides real-time weather information using geolocation and API integration.
+
+🔨 More Projects Coming Soon...
+
+I'm currently working on new projects as part of my Full Stack Java learning journey and will be updating this section with more practical applications.
+
+📈 GitHub Stats
+
+"Rushi's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+🌐 Connect With Me
+
+- 💼 "LinkedIn" (https://www.linkedin.com/in/rushi-tungana-076908317)
+- 📧 Email: rushitungana7@gmail.com
+
+🌱 Keep Learning. Keep Building. Keep Growing.
+
+Thanks for visiting my profile! 😊
+
+I'm always interested in learning new technologies, building projects, collaborating with developers, and improving my skills.
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat! 😊
+⭐ If you find my projects useful, feel free to star the repositories!
